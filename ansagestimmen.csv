@@ -1,0 +1,10 @@
+unternehmen,verkehrsmittel,stimme,anbieter,verwendung,status,belegstatus,beleg_url
+KVG Zickenheiner,Bus,Vicki,Amazon Polly,Standardstimme,aktuell,Nutzerbeobachtung / Videoeinblendung berichtet,
+KVG Zickenheiner,Bus,Yannick,Linguatec,Vereinzelt Linie 30,aktuell,Nutzerbeobachtung,
+Verkehrsbetriebe Mittelrhein (VMR),Bus,Petra,Linguatec,Standardstimme,aktuell,Nutzerbeobachtung / Videoeinblendung berichtet,
+Verkehrsbetriebe Mittelrhein (VMR),Bus,Anna,Linguatec,Vereinzelt neue Ansagen,aktuell,Nutzerbeobachtung,
+koveb,Bus,Anna,Linguatec,Frühere Standardansagen,ehemalig,Nutzerbeobachtung,
+koveb,Bus,unbekannt,unbekannt,Aktuelle Ansagen,aktuell,Offene Recherche,
+DB Regio Bus Mitte,Bus,Yannick,Linguatec,Unter anderem Linie 1,aktuell,Nutzerbeobachtung,
+National Express (RRX),Zug,Anna,Linguatec,RRX-Zugansagen,aktuell,Nutzerbeobachtung,
+DB Regio,Zug,Ingo Ruff,Menschlicher Sprecher,Klassische Zugansagen (nicht überall),historisch/teilweise,Nutzerbeobachtung / noch unbelegt,
